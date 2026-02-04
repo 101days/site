@@ -36,8 +36,16 @@ export default defineConfig({
     nav: [{ text: 'Algorithm', activeMatch: '/algorithm/', link: '/algorithm/00' }],
 
     sidebar: {
-      algorithm: {
-        items: [{ text: '00', link: '/algorithm/00' }],
+      '/algorithm/': {
+        base: '/algorithm/',
+        items: [
+          { text: 'README', link: 'README' },
+          { text: '00', link: '00' },
+          { text: '01', link: '01' },
+          { text: '02', link: '02' },
+          { text: '03', link: '03' },
+          { text: '04', link: '04' },
+        ],
       },
     },
 
