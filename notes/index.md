@@ -1,25 +1,38 @@
----
-# https://vitepress.dev/reference/default-theme-home-page
-layout: home
+# 101 Days
 
-hero:
-  name: "My Awesome Project"
-  text: "A VitePress Site"
-  tagline: My great project tagline
-  actions:
-    - theme: brand
-      text: Markdown Examples
-      link: /markdown-examples
-    - theme: alt
-      text: API Examples
-      link: /api-examples
+:::tip
+Reclaiming agency in the age of AI.
 
-features:
-  - title: Feature A
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
----
+在被算法包围的世界里，找回一点手写的确定性。
 
+—— 2026/02/04
+:::
+
+## 0x01. What is this?
+
+这是一个对抗“技术虚无感”的个人实验场。
+
+以 100 天为一个周期，去学习和尝试那些“AI 能做，但我亲手做会更快乐”的事情。
+
+## 0x02. Why "101"?
+
+- **CS 101**，像大学第一堂课的新生一样，重新享受编程的乐趣
+- **100 + 1**，第 100 天不是终点，第 101 天是新生活方式的延续
+
+## 0x03. 正在进行的探索
+
+### [Algorithm](/algorithm/00) (2.4 - 5.15)
+
+仅仅是想在力扣周赛里做出前两题。
+
+### Pixel Art
+
+从 16x16 的格子开始，找回对色彩、形状和创造力的物理掌控感。
+
+## 0x04. 摸鱼守则
+
+为了保持长期的低压运行，严格遵守以下守则：
+
+1. 不追求全情投入，只在间隙进行
+2. 难题超过 10 分钟没思路，直接看答案或者放弃，拒绝焦虑
+3. 过程 > 结果，哪怕只写了一行 `print()`，也是胜利

@@ -1,0 +1,3 @@
+[submodule "notes/algorithm"]
+	path = notes/algorithm
+	url = https://github.com/101days/algorithm.git
