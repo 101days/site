@@ -49,12 +49,8 @@ export default defineConfig({
       },
     },
 
-    socialLinks: [{ icon: 'github', link: 'https://github.com/101-days' }],
+    socialLinks: [{ icon: 'github', link: 'https://github.com/101days' }],
 
-    editLink: {
-      pattern: `https://github.com/101-days/notes/edit/main/:path`,
-      text: '在 GitHub 上编辑此页面',
-    },
     lastUpdated: {
       text: '最近更新于',
       formatOptions: { dateStyle: 'short', timeStyle: 'short' },
