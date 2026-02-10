@@ -1,12 +1,12 @@
 # 101 Days
 
-:::tip
-Reclaiming agency in the age of AI.
-
-在被算法包围的世界里，找回一点手写的确定性。
-
-—— 2026/02/04
-:::
+> [!TIP]
+> 
+> Reclaiming agency in the age of AI.
+> 
+> 在被算法包围的世界里，找回一点手写的确定性。
+> 
+> —— 2026/02/04
 
 ## 00. What is this?
 
