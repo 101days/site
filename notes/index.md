@@ -1,11 +1,11 @@
 # 101 Days
 
 > [!TIP]
-> 
+>
 > Reclaiming agency in the age of AI.
-> 
+>
 > 在被算法包围的世界里，找回一点手写的确定性。
-> 
+>
 > —— 2026/02/04
 
 ## 00. What is this?
@@ -24,6 +24,10 @@
 ### [Algorithm](/algorithm/00) (2.4 - 5.15)
 
 仅仅是想在力扣周赛里做出前两题。
+
+### [Game](/game/00) (2.24 - 6.4)
+
+从 CS50G 开始，目标是一个 2D 多人线上联机游戏。
 
 ### Pixel Art
 

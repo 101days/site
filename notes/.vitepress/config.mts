@@ -50,7 +50,10 @@ export default defineConfig({
     // https://vitepress.dev/reference/default-theme-config
     logo: '/logo.svg',
 
-    nav: [{ text: 'Algorithm', activeMatch: '/algorithm/', link: '/algorithm/00' }],
+    nav: [
+      { text: 'Algorithm', activeMatch: '/algorithm/', link: '/algorithm/00' },
+      { text: 'Game', activeMatch: '/game/', link: '/game/00' },
+    ],
 
     sidebar: {
       '/algorithm/': {
@@ -67,6 +70,22 @@ export default defineConfig({
           { text: '77', link: '77' },
           { text: '88', link: '88' },
           { text: '99', link: '99' },
+        ],
+      },
+      '/game/': {
+        base: '/game/',
+        items: [
+          { text: 'README', link: 'README' },
+          { text: '00', link: '00' },
+          { text: '01', link: '01' },
+          { text: '02', link: '02' },
+          { text: '03', link: '03' },
+          { text: '04', link: '04' },
+          { text: '05', link: '05' },
+          { text: '06', link: '06' },
+          { text: '07', link: '07' },
+          { text: '08', link: '08' },
+          { text: '09', link: '09' },
         ],
       },
     },

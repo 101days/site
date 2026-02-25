@@ -1,3 +1,6 @@
 [submodule "notes/algorithm"]
 	path = notes/algorithm
 	url = https://github.com/101days/algorithm.git
+[submodule "notes/game"]
+	path = notes/game
+	url = https://github.com/101days/game.git
