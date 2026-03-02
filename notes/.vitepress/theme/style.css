@@ -1,13 +1,24 @@
 :root {
   --vp-font-family-base: 'Source Han Serif CN for Display', serif;
   --vp-font-family-mono: 'DM Mono', 'Source Han Serif CN for Display', monospace;
+
+  /* --vp-sidebar-width: 200px; */
+  --vp-layout-max-width: 1600px;
+}
+
+.vp-doc h1 + p {
+  margin-top: 32px;
+  margin-bottom: 0px;
+}
+
+.vp-doc h1 + p + h2 {
+  margin-top: 24px;
 }
 
 /**
  * Customize default theme styling by overriding CSS variables:
  * https://github.com/vuejs/vitepress/blob/main/src/client/theme-default/styles/vars.css
  */
-
 :root {
   --vp-c-gray-1: #dddde3;
   --vp-c-gray-2: #e4e4e9;
