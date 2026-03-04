@@ -86,15 +86,15 @@ export default defineConfig({
               { text: '03. 计划，实战，小丑牌', link: '03' },
               { text: '04. 砖块，组织，精灵图', link: '04' },
               { text: '05. 三月，周日，新想法', link: '05' },
-              { text: '06', link: '06' },
+              { text: '06. 小球，碰撞，源码学习', link: '06' },
             ],
           },
           {
             text: '第二周',
             collapsed: true,
             items: [
-              { text: '07', link: '07' },
-              { text: '08', link: '08' },
+              { text: '07. 注释，教程，线性插值', link: '07' },
+              { text: '08. Arrow，Jump，Tiles', link: '08' },
               { text: '09', link: '09' },
               { text: '10', link: '10' },
               { text: '11', link: '11' },
