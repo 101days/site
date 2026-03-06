@@ -104,6 +104,7 @@ export default defineConfig({
           },
           {
             text: 'BYTEPATH 教程',
+            base: '/game/bytepath/',
             collapsed: true,
             items: [
               { text: '00. Introduction', link: '00' },
