@@ -2,12 +2,12 @@
   --vp-font-family-base: 'Source Han Serif CN for Display', serif;
   --vp-font-family-mono: 'DM Mono', 'Source Han Serif CN for Display', monospace;
 
-    --vp-sidebar-width: 300px;
+  --vp-sidebar-width: 288px;
   --vp-layout-max-width: 100%;
 }
 
 .VPDoc.has-aside .content-container {
-  max-width: 80% !important;
+  max-width: 90% !important;
 }
 
 .vp-doc h1 + p {
