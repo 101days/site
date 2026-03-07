@@ -95,8 +95,8 @@ export default defineConfig({
             items: [
               { text: '07. 注释，教程，线性插值', link: '07' },
               { text: '08. Arrow，Jump，Tiles', link: '08' },
-              { text: '09', link: '09' },
-              { text: '10', link: '10' },
+              { text: '09. Save&Load，Camera，Canvas', link: '09' },
+              { text: '10. Collision，Strength，推箱子', link: '10' },
               { text: '11', link: '11' },
               { text: '12', link: '12' },
               { text: '13', link: '13' },
@@ -124,7 +124,7 @@ export default defineConfig({
               { text: '14. Console', link: '14' },
               { text: '15. Final', link: '15' },
             ],
-          }
+          },
         ],
       },
     },
