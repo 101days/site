@@ -92,6 +92,7 @@ const gameSidebar = {
         { text: '13. Skill Tree', link: '13' },
         { text: '14. Console', link: '14' },
         { text: '15. Final', link: '15' },
+        { text: 'A. Fix Your Timestep!', link: '16' },
       ],
     },
     {
