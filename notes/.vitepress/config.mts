@@ -40,9 +40,10 @@ export default defineConfig({
     ],
     [
       'link',
+
       {
         rel: 'stylesheet',
-        href: 'https://chinese-fonts-cdn.deno.dev/packages/sypxzs/dist/思源屏显臻宋/result.css',
+        href: 'https://chinese-fonts-cdn.netlify.app/packages/sypxzs/dist/思源屏显臻宋/result.css',
       },
     ],
   ],
