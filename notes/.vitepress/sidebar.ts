@@ -68,7 +68,20 @@ const gameSidebar = {
         { text: '24. 继续，定时器，输入处理', link: '24' },
         { text: '25. 简化，摄影机，TRS', link: '25' },
         { text: '26. 碰撞，AABB，Box2D', link: '26' },
-        { text: '27', link: '27' },
+        { text: '27. Minkowsky，扩张，相交', link: '27' },
+      ],
+    },
+    {
+      text: '第五周',
+      collapsed: true,
+      items: [
+        { text: '28. 线段，矩形，Liang-Barsky', link: '28' },
+        { text: '29. 不懂，不懂，不懂', link: '29' },
+        { text: '30. 重启，引擎，三分钟热度', link: '30' },
+        { text: '31. 随机，顺序，架构', link: '31' },
+        { text: '32. 休息', link: '32' },
+        { text: '33. 休息', link: '33' },
+        { text: '34. 休息', link: '34' },
       ],
     },
     {
